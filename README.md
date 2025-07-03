@@ -24,7 +24,7 @@ No telemetry. No sync. Just your code, your way.
 > 🛠️ Go 1.20+ required
 
 ```bash
-git clone https://github.com/yourname/codestash.git
+git clone https://github.com/AngeloMihaelle/CodeStash.git
 cd codestash
 go build -o codestash
 mv codestash /usr/local/bin/  # or somewhere in your $PATH
