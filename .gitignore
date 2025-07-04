@@ -1,0 +1,11 @@
+#Test files
+CodeStash.exe
+CodeStash.sh
+CodeStash
+#cache
+.codestash/snippets.json
+.codestash
+
+#test (not used in the project)
+merge_files.py
+merged_cmd.go.merge
